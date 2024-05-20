@@ -18,6 +18,35 @@
 
 ## IV. TRANSFER FUNCTION FROM BLOCK DIAGRAMS AND BLOCK DIAGRAM SOLUTIONS
 
+### Number 1. Solutions 
+<div align="center">
+   
+| *BLOCK DIAGRAM SOLUTION*     |
+|-----------------------       |
+|![Screenshot 2024-05-21 000339](https://github.com/IamImji/CSE_BlockDiagramAlgebra_MEXE_3202_Group4_2024/assets/158303837/2d2a5af2-e16c-4520-a8fe-92e41c6dfd75) |
+|![Screenshot 2024-05-21 000428](https://github.com/IamImji/CSE_BlockDiagramAlgebra_MEXE_3202_Group4_2024/assets/158303837/6b7bef51-6075-4069-87cf-437385808408) |
+
+</div>
+
+<div align="center">
+   
+| *TRANSFER FUNCTION SOLUTION*     |
+|-----------------------       |
+| ![image](https://github.com/IamImji/CSE_BlockDiagramAlgebra_MEXE_3202_Group4_2024/assets/158303837/73f334bc-3a1c-47d6-8deb-5dd1a986f68c) |
+
+</div>
+
+## Comparison of Sinusoidal Source and Step Response
+<div align="center">
+
+| *<div align="center">Step Response Simulink*</div>                | *<div align="center">Sinusoidal Source*</div>               |
+|-----------------------   |-----------------------   |
+| ![Screenshot 2024-05-13 171714](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/8bcd77c7-67e8-49b4-8734-39e52d7fa6c1) |<div align="center">![Screenshot 2024-05-13 171801](https://github.com/IamImji/CSE_StepResponse_MEXE_3202_Group4_2024/assets/158303837/c4e57662-5215-415c-8f2a-ff5186bf54a9)</div> |
+
+</div>
+
+### Number 2. Solutions
+
 ## V. MEMBERS
 * ###  Cullos, Kristina Crisandra M.
 * ###  Garcia, Mark Jeffereson R.
