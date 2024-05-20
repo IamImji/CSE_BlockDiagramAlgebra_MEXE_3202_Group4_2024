@@ -36,7 +36,7 @@
 
 </div>
 
-## Comparison of Sinusoidal Source and Step Response
+## <div align="center">Comparison of Sinusoidal Source and Step Response</div>
 <div align="center">
 
 | *<div align="center">Step Response Simulink*</div>                | *<div align="center">Sinusoidal Source*</div>               |
